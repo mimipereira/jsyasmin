@@ -1,1 +1,1 @@
-# jsyasmin
+# js-yasmin
